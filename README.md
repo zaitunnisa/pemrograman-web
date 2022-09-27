@@ -19,8 +19,8 @@
 * Pengembangan aplikasi web: web server, serverless, dan teknologi cloud
   * lecture: introduction to recent technology + demo
   * assignment: -
-* Domains, firewall, dan keamanan aplikasi web
-  * lecture: domain, hosting a website, firewall (incl. demo)
+* Domains, firewall, keamanan, dan optimasi aplikasi web
+  * lecture: domain, hosting a website, firewall, CDN, varnish (incl. demo)
   * assignment: host the domain on a free hosting + free domain name behind a cloudflare firewall
 * Membuat website tanpa koding
  * wordpress + themes / other CMS with page builder
