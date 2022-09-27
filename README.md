@@ -7,7 +7,7 @@
 * Teamwork dalam dunia kerja: collaboration tool - github untuk repositori kode dan manajemen proyek (PM, dev, QA)
   * lecture: as described (+ demo)
   * assignment: make a group of 4: 1 project manager, 3 devs; setup github kanban board and code repository
-* Fundamental pengembangan aplikasi web: web server; frontend; backend; database; containers (docker); terminal, FTP, & SSH
+* Fundamental pengembangan aplikasi web: web server; frontend; backend; database; containers (docker); terminal, FTP, & SSH - atau XAMPP jika tidak memungkinkan
   * lecture: as described (+ demo)
   * assignment: install terminal, git, docker, filezilla; pull docker-compose config file, deploy infrastructure (docker) on local (docker-compose and web files will be provided)
 * Pengembangan aplikasi web: frontend
