@@ -23,4 +23,4 @@
   * lecture: domain, hosting a website, firewall, CDN, varnish (incl. demo)
   * assignment: host the domain on a free hosting + free domain name behind a cloudflare firewall
 * Membuat website tanpa koding
- * wordpress + themes / other CMS with page builder
+  * wordpress + themes / other CMS with page builder
